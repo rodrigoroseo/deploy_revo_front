@@ -1,0 +1,37 @@
+.container {
+    color: #333;
+}
+
+h1{
+    font-family: Arial;
+    font-size: 22pt;
+    font-weight: bold;
+    color: cornflowerblue;
+}
+
+.form-control {
+    border: none;
+    border-bottom: 2px solid #333;
+    color: cornflowerblue;
+}   .form-control:focus { color: #333; background-color: #fff;}
+    .form-control:valid{background-color:#fff}
+
+.btn-success {
+    background-image: linear-gradient(to bottom right, #3CB371, #87CEFA);
+    border: none;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.txtErro{
+    position: absolute;
+    margin-top: 0.2vw;
+    margin-left: 0.6vw;
+    font-size: 0.7vw;
+}
+
+.form {
+    background-color: #fff;
+    box-shadow: 1px 1px 10px #ddd;
+}

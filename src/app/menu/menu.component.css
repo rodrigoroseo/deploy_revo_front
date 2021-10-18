@@ -1,0 +1,18 @@
+.fs-16 {
+    font-size: 16pt;
+}
+
+.color-hiperlink-0 {
+    color: black;
+}
+
+.navbar {
+    background-color: #fff;
+    box-shadow: 0px 0px 10px #ddd;
+    color: #555;
+}
+
+#btnSair {
+    cursor: pointer;
+    color: #555;
+}
